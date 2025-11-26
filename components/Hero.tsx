@@ -34,13 +34,13 @@ const Hero = () => {
     </div>
     <div className="flex justify-center relative my-20 z-10">
         <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
-        <h1 className='uppercase tracking-widest text-2xl text-center max-w-80'>Hi</h1>
+        <h1 className='uppercase tracking-widest text-2xl text-center max-w-80'>Great to see you</h1>
         <TextGenerateEffect
-          words="I am a Great Developer Check out My porjects"
+          words="I am a Great Developer Check out My projects"
           className="text-center text-[40px] md:text-5xl lg:text-6xl"
         />
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-          Hi! I&apos;m Harsh, a Software Developer based in India.
+          Hi! I&apos;m Harsh, a Software Developer based in India,Wanna Hire me?.
         </p>
         <a href="#about">
         <MagicButton
